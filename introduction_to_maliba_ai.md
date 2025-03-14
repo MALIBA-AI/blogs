@@ -110,11 +110,11 @@ Community empowerment is discussed further in MALIBA-AI's whitepaper.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No one really knows what the future holds, all we can do is plan as precisely as we can. The only future plan of MALIBA-AI is to grow our community, expand our language coverage to all Malian languages, develop increasingly solutions tailored to local needs, and ensure that our solutions remain free, open, and accessible to all Malians. It is after all a community-driven initiative independent of anything that can really hold it back.
 
-## VIII. Copyright & License
+## IIX. Copyright & License
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MALIBA-AI will make attempt to avoid proprietary items for all of its projects. All the projects will try to build everything from scratch or otherwise use an open-source that has a flexible license. Any of the projects that we work on will be open-source, as we are more interested in implementing solutions than the credit/financial gain aspect of things. Due to our commitment to open access and community ownership, all projects will be hosted in public repositories with permissive licenses that allow for wide use, adaptation, and contribution while ensuring that derivatives remain open to the community.
 
-## XI. Conclusion
+## IX. Conclusion
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We've reached the conclusion of this introductory post. MALIBA-AI is a community-driven initiative to solve the most pressing problem facing Mali in the AI revolution: the linguistic exclusion of the majority of our citizens. When technology requires users to speak French or English, we create a two-tier society where only the formally educated can participate in technological advancement. 
 
