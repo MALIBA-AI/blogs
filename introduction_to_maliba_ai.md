@@ -86,7 +86,7 @@ Community empowerment is discussed further in MALIBA-AI's whitepaper.
 
 ## VI. Publications
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type publications that will be published by MALIBA-AI are language models, software source code, blog posts, whitepapers, research papers, and comprehensive documentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of publications that will be published by MALIBA-AI are model cards, software documentation, blog posts, whitepapers, and academic research papers.
 
 ### Blog
 
